@@ -1,4 +1,4 @@
-# TestNG SoftAssert Selenium Webdrievr
+# TestNG SoftAssert Selenium Webdriver
 
 <a href='http://chercher.tech/java/testng-assertions-selenium-webdriver' title='softassert in selenium webdriver'><b>SoftAssert in TestNG </b></a>is nothing but brother of Assert , the SoftAssert not only asserts a given conditions, but also gives a chance to user to continue the execution after Assertion failure.
 
