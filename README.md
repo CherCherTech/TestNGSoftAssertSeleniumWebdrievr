@@ -11,3 +11,5 @@ Example : Consider you have a testcase which verifies the 100 CSS properties. Do
 What we would like is atleaset we want to execute the testcase for all th check points/ verification so that we will get to know how may properties are matching and how many are not matching.
 
 All the assertion present in the SoftAssert class in TestNG are non-static methods.
+
+You can read more on the <a href='http://chercher.tech/java/testng-assertions-selenium-webdriver' title='softassert in selenium webdriver'><b>SoftAssert in TestNG along with selenium</b></a>
